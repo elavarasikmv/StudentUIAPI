@@ -7,12 +7,12 @@
 pom.xml - i have added all the depencies of project
 
 ----
-Features - Added all the features of project
-StepDefinition - Added all the working test scripts
-target- Added cucumber reports
-Helper - Added log4j files
-Runner - Added Runner class to run the project . How to run ? - Just right click on Test runner.java > Run as >JUnit
-application.log - To view the log files of project
+*Features - Added all the features of project
+*StepDefinition - Added all the working test scripts
+*target- Added cucumber reports
+*Helper - Added log4j files
+*Runner - Added Runner class to run the project . How to run ? - Just right click on Test runner.java > Run as >JUnit
+*application.log - To view the log files of project
 
 ------
 
