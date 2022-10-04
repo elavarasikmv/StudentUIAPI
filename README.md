@@ -16,5 +16,5 @@ pom.xml - i have added all the depencies of project
 
 ------
 
-Please Note: Thanks for giving me this opportunity to share my thoughts.
+Please Note: Thanks for giving me this opportunity to share my inputs.
 
